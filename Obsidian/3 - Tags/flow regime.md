@@ -1,0 +1,6 @@
+### Dependent on [[Mach number ( 1 )]]
+- [[Sonic Regime ( Ma = 1 )]]]
+- [[Super Sonic Regime ( M > 1)]]]
+### Dependent on [[Idealized Flow Regimes]]
+- [[Continuum regime]]]
+### Dependent on [[Dynamic Viscosity ( Pa s )]]]

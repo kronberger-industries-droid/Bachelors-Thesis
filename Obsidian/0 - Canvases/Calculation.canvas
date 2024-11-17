@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"f826eeccadfd178d","type":"file","file":"14 - Reactor Chamber.md","x":468,"y":1680,"width":540,"height":400},
+		{"id":"f3fbfaccc113c34d","type":"file","file":"1A - Leakage Reactor.md","x":468,"y":2400,"width":540,"height":400},
+		{"id":"c8c9f2acd3f654e4","type":"file","file":"15 - Outlet Reactor.md","x":1280,"y":1680,"width":540,"height":400},
+		{"id":"5a37f6f262d01696","type":"file","file":"1B - Vacuum.md","x":468,"y":3000,"width":540,"height":400},
+		{"id":"d9432a052b45ffc2","type":"file","file":"13 - Inlet Reactor.md","x":-280,"y":1680,"width":540,"height":400},
+		{"id":"0c6ca17b49bb3cb4","type":"file","file":"41 - Subsonic Regime ( 0.3 < Ma < 1.0 ).md","x":-1700,"y":1125,"width":620,"height":495},
+		{"id":"25ad09e178cf7190","type":"file","file":"12 - Inlet Nozzle.md","x":-820,"y":980,"width":434,"height":555},
+		{"id":"1592f5a13926c8d7","type":"file","file":"11 - Reservoir.md","x":-970,"y":283,"width":300,"height":495},
+		{"id":"5c6ab9db9ac84e27","type":"text","text":"Using only the calculations for [[42 -|steady, adiabatic, isentropic flow]] we reach a mass flow around 2 orders of magnitude higher than at the [[16 - Outlet Nozzle|outlet nozzle]] which means to sustain such a high mass flow we would need very high velocities at the [[12 - Inlet Nozzle|inlet nozzle]], which is sub-optimal for our case.\n\nSame logic applies like at the [[16 - Outlet Nozzle|outlet nozzle]]: right after the inlet supersonic flow will be present. And stated in [[41 - Super Sonic Regime]] there will be a negative pressure gradient. Therefore the [[31 - Knudsen number ( 1 )]] will get higher the further we are from the inlet. \n\nThe question now is: at which point can we assume that the [[42 -#Differentiate the flow regimes#Transition regime ( 0.1 ≤ Kn ≤ 10 )|transition regime]] will govern the interactions of the particles.","x":1280,"y":2340,"width":487,"height":420,"color":"3"},
+		{"id":"e9ac06546a060c1f","type":"file","file":"17 - Vacuum Chamber.md","x":1280,"y":-40,"width":540,"height":400},
+		{"id":"9f7d404f14c22dc5","type":"file","file":"16 - Outlet Nozzle.md","x":1280,"y":580,"width":540,"height":660},
+		{"id":"53ac6faf9e89b773","type":"file","file":"41 - Super Sonic Regime.md","x":2080,"y":580,"width":540,"height":400}
+	],
+	"edges":[
+		{"id":"935f277b719699c3","fromNode":"25ad09e178cf7190","fromSide":"bottom","toNode":"d9432a052b45ffc2","toSide":"top","color":"3","label":"laminar flow\nsubsonic"},
+		{"id":"8e89651ec5595620","fromNode":"d9432a052b45ffc2","fromSide":"right","toNode":"f826eeccadfd178d","toSide":"left","color":"3","label":"subsonic"},
+		{"id":"f18cc77b7bfca89b","fromNode":"f826eeccadfd178d","fromSide":"right","toNode":"c8c9f2acd3f654e4","toSide":"left","color":"2","label":"approaching sonic"},
+		{"id":"1bdeb8836ea1d733","fromNode":"c8c9f2acd3f654e4","fromSide":"top","toNode":"9f7d404f14c22dc5","toSide":"bottom","color":"1","label":"super sonic"},
+		{"id":"2d29432aecd1583c","fromNode":"f826eeccadfd178d","fromSide":"bottom","toNode":"f3fbfaccc113c34d","toSide":"top","color":"2","label":"approaching sonic"},
+		{"id":"61b7c859f8509f34","fromNode":"1592f5a13926c8d7","fromSide":"bottom","toNode":"25ad09e178cf7190","toSide":"top","color":"4","label":"stagnant conditions"},
+		{"id":"c7fbcb52ce2083d4","fromNode":"e9ac06546a060c1f","fromSide":"bottom","toNode":"9f7d404f14c22dc5","toSide":"top","label":"no back pressure"},
+		{"id":"0d686b3c56d9bc21","fromNode":"5a37f6f262d01696","fromSide":"top","toNode":"f3fbfaccc113c34d","toSide":"bottom","label":"no back pressure"},
+		{"id":"a4c9ee14a4c3d74c","fromNode":"0c6ca17b49bb3cb4","fromSide":"right","toNode":"25ad09e178cf7190","toSide":"left"},
+		{"id":"20ddfb78b40f95a3","fromNode":"53ac6faf9e89b773","fromSide":"left","toNode":"9f7d404f14c22dc5","toSide":"right"},
+		{"id":"538ef86a2e6c362a","fromNode":"5c6ab9db9ac84e27","fromSide":"left","toNode":"f3fbfaccc113c34d","toSide":"right"}
+	]
+}

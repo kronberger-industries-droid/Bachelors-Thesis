@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"d94cac0678396721","type":"group","x":-560,"y":-1900,"width":1720,"height":820,"label":"Supersonic Oulet Nozzle"},
+		{"id":"59fea334e42c6fbb","type":"group","x":-560,"y":-1000,"width":1720,"height":540,"label":"Chamber"},
+		{"id":"3db7d6155fb9d289","type":"group","x":-560,"y":-400,"width":1720,"height":400,"label":"Subsonic Inlet Nozzle"},
+		{"id":"7f84e2dcfd9121ef","type":"text","text":"#### Questions to answer:\n- Why did we choose the continuum regime?\n- What is the most probable range of Knudsen and Reynolds Numbers?\n- Where do the formulas for our calculations come from?\n\t- Knudsen number\n\t- Mean Free Path\n\t- Reynolds number\n\t- Isentropic Relations\n- Why not include frictional losses.\n- ","x":-1584,"y":-2212,"width":704,"height":591},
+		{"id":"48422e79dbbacc97","type":"text","text":"#### Fluid Mechanics: Fundamentals and Applications (Mechanical Engineering) (4th Edition)","x":-2170,"y":-1160,"width":560,"height":64},
+		{"id":"0be8a22a8d649e36","type":"file","file":"2 - Source Material/Figure - Microfluidic Devices.png","x":-2920,"y":-1048,"width":400,"height":334},
+		{"id":"a44150aa85ebe439","type":"text","text":"#### COMSOL - Introduction to the Microfluidics Module","x":-2941,"y":-1160,"width":443,"height":64},
+		{"id":"b3733947cd5fed8f","type":"file","file":"2 - Source Material/Doc - Compressible Flow.pdf","subpath":"#page=10","x":-2170,"y":-1048,"width":460,"height":603},
+		{"id":"ea6e292c662a4b81","type":"link","url":"https://devenport.aoe.vt.edu/aoe3114/calc.html","x":-520,"y":-1862,"width":840,"height":342},
+		{"id":"850e4bfc57926c7c","type":"file","file":"nozzle_flow_sup.png","x":400,"y":-1862,"width":715,"height":482},
+		{"id":"d41e4767c0307a9c","type":"file","file":"42 -.md","x":-1360,"y":-1328,"width":480,"height":614},
+		{"id":"3bb1a495e1633e01","type":"file","file":"50 - Conservation of Mass.md","x":-1360,"y":-640,"width":480,"height":400},
+		{"id":"8c5f801f5f8c82a1","type":"file","file":"2 - Source Material/Figure - supersonic_nozzle.png","x":680,"y":-1784,"width":370,"height":123},
+		{"id":"c55d5acd010333fd","type":"text","text":"### Values at the outlet\n$$\n\\begin{aligned}\n&Ma = 2.696\\\\\\\\\n&P_e = 0.0305\\text{ bar}\\\\\\\\\n&T_e=153.618\\text{ K}\\\\\\\\\n&Kn = 0.0186\\\\\\\\\n&v_e=513.425\\frac{\\text{m}}{\\text{s}}\\\\\\\\\n&\\dot{m}=8.7848 \\cdot 10^{-8} \\frac{\\text{kg}}{\\text{s}}\n\\end{aligned}\n$$","x":-520,"y":-1480,"width":748,"height":360},
+		{"id":"902355851da203ed","type":"file","file":"2 - Source Material/Figure - chamber_flow.png","x":400,"y":-961,"width":715,"height":481},
+		{"id":"db6850cd6cb01d86","type":"text","text":"### Chamber is treated like a reservoir with:\n\n$$\n\\begin{align}\n&P=1\\text{ bar}\\\\\\\\\n&T=300 \\text{ °C } /\\;20\\text{ °C}\n\\end{align}\n$$\n","x":-520,"y":-961,"width":760,"height":161},
+		{"id":"533f1665270cee7e","type":"text","text":"## Values at the throat\n$$\n\\begin{align}\n&P_t=0.5549 \\text{ bar}\\\\\\\\\n&T_t=260.58\\text{ K}\\\\\\\\\n&v_t=248.07 \\frac{\\text{m}}{\\text{s}}\n\\end{align}\n$$","x":400,"y":-1360,"width":715,"height":240},
+		{"id":"f721eb3e7b1d4b3a","type":"text","text":"### Assuming Constant Massflow:\n\n##### Mach number at Inlet\n$$\nMa \\approx 0.5886\n$$\n\n##### Resulting Pressure\n\n$$\nP_0= 1.2361\\text{ bar}\n$$\n\n\n##### Critical Pressure\n\n$$\nP_{0\\_critical}=1.802 \\text{ bar}\n$$","x":-520,"y":-360,"width":760,"height":320},
+		{"id":"e5b866d6a4822eb2","type":"file","file":"2 - Source Material/Figure - subsonic_nozzle.png","x":282,"y":-340,"width":833,"height":280},
+		{"id":"cd5f9b17576c2b65","type":"text","text":"### Nearly Isothermal Process? ","x":-514,"y":-720,"width":748,"height":60}
+	],
+	"edges":[
+		{"id":"41ed37fa5ad0aa13","fromNode":"0be8a22a8d649e36","fromSide":"right","toNode":"b3733947cd5fed8f","toSide":"left"},
+		{"id":"da3c2f7b1f177559","fromNode":"b3733947cd5fed8f","fromSide":"right","toNode":"d41e4767c0307a9c","toSide":"left"},
+		{"id":"c2ab8b1001aa085f","fromNode":"b3733947cd5fed8f","fromSide":"right","toNode":"3bb1a495e1633e01","toSide":"left"},
+		{"id":"425805aedde46aee","fromNode":"d41e4767c0307a9c","fromSide":"right","toNode":"d94cac0678396721","toSide":"left","color":"4"},
+		{"id":"1ecbb44aba2335ac","fromNode":"d41e4767c0307a9c","fromSide":"right","toNode":"59fea334e42c6fbb","toSide":"left","color":"4"},
+		{"id":"1f82c4baa7548e8a","fromNode":"d41e4767c0307a9c","fromSide":"right","toNode":"3db7d6155fb9d289","toSide":"left","color":"2"},
+		{"id":"709f5d2a18cc30f8","fromNode":"3bb1a495e1633e01","fromSide":"right","toNode":"3db7d6155fb9d289","toSide":"left","color":"2"},
+		{"id":"9cd97a2d65309621","fromNode":"cd5f9b17576c2b65","fromSide":"right","toNode":"902355851da203ed","toSide":"left","color":"5"},
+		{"id":"0f1b68eae525d036","fromNode":"db6850cd6cb01d86","fromSide":"bottom","toNode":"cd5f9b17576c2b65","toSide":"top","color":"5"}
+	]
+}

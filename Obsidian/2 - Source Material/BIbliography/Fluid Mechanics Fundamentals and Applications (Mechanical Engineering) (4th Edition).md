@@ -1,0 +1,11 @@
+@book{cengel_fluid_2017,
+	address = {New York, NY},
+	edition = {4th ed},
+	title = {Fluid {Mechanics}: {Fundamentals} and {Applications} ({Mechanical} {Engineering}) (4th {Edition})},
+	isbn = {978-1-259-69653-4},
+	language = {en},
+	publisher = {McGraw Hill, LLC},
+	author = {Çengel, Yunus A. and Cimbala, John M.},
+	year = {2017},
+	keywords = {converging, diffusor, diverging, dynamic pressure, hydrostatic pressure, isentropic flow, nozzle, static pressure},
+}
