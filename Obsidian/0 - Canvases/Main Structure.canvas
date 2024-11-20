@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"9d9725d7e89c70da","type":"file","file":"4 - Indexes/1 - Theory.md","x":-260,"y":-160,"width":600,"height":700},
-		{"id":"a2954632fd7c59f4","type":"file","file":"4 - Indexes/2 - Analytical Work.md","x":420,"y":-160,"width":460,"height":940},
+		{"id":"9d9725d7e89c70da","type":"file","file":"Obsidian/4 - Indexes/1 - Theory.md","x":-260,"y":-160,"width":600,"height":700},
+		{"id":"a2954632fd7c59f4","type":"file","file":"Obsidian/4 - Indexes/2 - Analytical Work.md","x":420,"y":-160,"width":460,"height":940},
 		{"id":"0220b2a0fa1280bb","type":"file","file":"1 - Rough Notes/0 - Intro.md","x":-620,"y":-160,"width":180,"height":80},
 		{"id":"64abe2dcbe0b38bb","type":"file","file":"4 - Indexes/4 - Conclusion.md","x":1880,"y":-20,"width":280,"height":60},
 		{"id":"bfeda5967f0865a6","type":"text","text":"# A - Apendix","x":1880,"y":160,"width":260,"height":60},
-		{"id":"839fe87fcc9258c8","type":"file","file":"1 - Rough Notes/Untitled 1.md","x":-1330,"y":540,"width":890,"height":870},
-		{"id":"ff1262453df7261c","type":"file","file":"4 - Indexes/3 - Discussion.md","x":1000,"y":-160,"width":500,"height":820}
+		{"id":"839fe87fcc9258c8","type":"file","file":"Obsidian/1 - Rough Notes/0 - Intro.md","x":-1330,"y":540,"width":890,"height":870},
+		{"id":"ff1262453df7261c","type":"file","file":"Obsidian/4 - Indexes/3 - Discussion.md","x":1000,"y":-160,"width":500,"height":820}
 	],
 	"edges":[
 		{"id":"e2dde72ed40053b0","fromNode":"9d9725d7e89c70da","fromSide":"right","toNode":"a2954632fd7c59f4","toSide":"left"},

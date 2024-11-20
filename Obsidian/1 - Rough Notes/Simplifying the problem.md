@@ -4,7 +4,7 @@ Status: [[in work]]
 
 Tags:
 
-# Simplest Version of the problem
+# Simplifying the problem
 ## Simplification of the Geometry
 Looking at the real geometry of the whole micro reactor it seems definitely to complicated to analyze analytically. The three main sections in the gas flow are the inlet and outlet of the reaction chamber and the reaction chamber itself.
 ### Inlet into the chamber
