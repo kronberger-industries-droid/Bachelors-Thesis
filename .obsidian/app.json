@@ -3,5 +3,6 @@
   "vimMode": false,
   "livePreview": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "1 - Rough Notes"
+  "newFileFolderPath": "1 - Rough Notes",
+  "trashOption": "local"
 }

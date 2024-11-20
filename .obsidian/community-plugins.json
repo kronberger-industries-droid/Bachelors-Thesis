@@ -4,5 +4,6 @@
   "obsidian-zotero-desktop-connector",
   "obsidian-pandoc-reference-list",
   "obsidian-pandoc",
-  "execute-code"
+  "execute-code",
+  "dataview"
 ]
