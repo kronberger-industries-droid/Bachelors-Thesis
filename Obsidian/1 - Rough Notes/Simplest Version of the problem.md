@@ -10,7 +10,8 @@ Looking at the real geometry of the whole micro reactor it seems definitely to c
 ### Inlet into the chamber
 At the inlet the gas flow is leaving the nozzle and is flowing over right angles around the perimeter of the nozzle exit into a much larger section which does not resemble a duct.
 
-![[flow_over_right-angle.svg]]figure: sketch of the flow out of the inlet nozzle, where ( 1 ) shows the flow out of the nozzle and ( 2 ) the most probable direction the flow will travel after leaving the nozzle.
+![[flow_over_right-angle.svg]]
+figure: sketch of the flow out of the inlet nozzle, where ( 1 ) shows the flow out of the nozzle and ( 2 ) the most probable direction the flow will travel after leaving the nozzle.
 
 It is easy to imagine that any simplification regarding the dimension of the flow as seen in ( [[Dimension of the Flow]] ) would make no sense after this point in the flow. The flow will expand freely into the much larger cavity of the chamber and the direction of the flow will change.
 
