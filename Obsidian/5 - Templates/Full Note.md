@@ -1,4 +1,5 @@
-	last modified: ( `$= dv.current().file.mtime` ) 
+{{date}} {{time}}
+
 Status:
 
 Tags:

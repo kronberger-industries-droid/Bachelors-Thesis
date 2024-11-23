@@ -1,9 +1,9 @@
 [
   "obsidian-diagrams-net",
   "obsidian-minimal-settings",
-  "obsidian-zotero-desktop-connector",
   "obsidian-pandoc-reference-list",
   "obsidian-pandoc",
   "execute-code",
-  "dataview"
+  "dataview",
+  "obsidian-completr"
 ]

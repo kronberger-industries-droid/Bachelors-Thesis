@@ -1,8 +1,8 @@
-
-## Questions from Jiri
+## Questions we want to answer
 
 ### What type of flow are we expecting?
-1. rather low [[Reynolds number ( 1 )]], meaning laminar flow -> bad mixing, [[No-Slip condition]] 
+1. rather low [[Reynolds number ( 1 )]], meaning laminar flow -> bad mixing, [[No-Slip condition]]
+2. [[Knudsen number ( 1 )]] will 
 ### How to calculate the leak and how much impact does it have?
 
 ### Flow after inlet (Distribution)?
