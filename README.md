@@ -5,8 +5,6 @@
 2. [[Knudsen number ( 1 )]] will 
 ### How to calculate the leak and how much impact does it have?
 
-### Flow after inlet (Distribution)?
-1. Dependend on leakage!
 ### Whats important for homogeneous reaction on the sample?
 1. Well obvious answer: as much mixing -> as much turbulence as possible 
 ### Flow after inlet (Distribution)?

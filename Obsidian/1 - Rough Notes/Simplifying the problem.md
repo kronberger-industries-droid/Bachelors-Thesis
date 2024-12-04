@@ -17,7 +17,6 @@ It is easy to imagine that any simplification regarding the dimension of the flo
 
 ### The reaction chamber
 Since the chamber itself is by no means symmetric, but resembles a kind of coin shape, where the flow is traveling from one side to another assuming a lower dimensional flow wont make sense without simplifying this part of the geometry.
-
 ### Outlet out of the chamber
 At the outlet we will encounter a similar problem as in for the inlet. The flow will be compressed into the much smaller area of the outlet and will change direction.
 ### Proposed simplification

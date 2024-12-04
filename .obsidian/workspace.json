@@ -13,33 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian/6 - Main Notes/Conservation of Mass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "1b47c02b5ef6a00e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Obsidian/0 - Canvases/Main Structure.canvas",
-                "viewState": {
-                  "x": 1355.3184643510058,
-                  "y": 289.5212979890311,
-                  "zoom": -0.553859154724758
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Main Structure"
+              "title": "Conservation of Mass"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,63 +162,62 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b47c02b5ef6a00e",
+  "active": "ecb9858b1ed79916",
   "lastOpenFiles": [
-    "Obsidian/6 - Main Notes/Idealized Flow Regimes.md",
+    "Untitled.canvas",
     "Obsidian/6 - Main Notes/Conservation of Mass.md",
     "Obsidian/6 - Main Notes/Dynamic Viscosity ( Pa s ).md",
-    "Obsidian/6 - Main Notes/Heterogeneous catalysis.md",
-    "Obsidian/1 - Rough Notes/Dimensionless Numbers.md",
-    "Obsidian/1 - Rough Notes/Equations.md",
-    "Obsidian/1 - Rough Notes/Equations of state.md",
-    "Obsidian/1 - Rough Notes/Goal of this section.md",
-    "Obsidian/1 - Rough Notes/Initial data line.md",
-    "Obsidian/1 - Rough Notes/Inlet Nozzle.md",
+    "Obsidian/6 - Main Notes/Characteristic Length ( m ).md",
+    "Obsidian/6 - Main Notes/Idealized Flow Regimes.md",
+    "Obsidian/6 - Main Notes/Isentropic Flow.md",
+    "Obsidian/6 - Main Notes/Knudsen number ( 1 ).md",
+    "Obsidian/6 - Main Notes/Local Speed of Sound ( m s⁻¹ ).md",
+    "Obsidian/6 - Main Notes/Mach Angle ( rad ).md",
+    "Obsidian/6 - Main Notes/Mach number ( 1 ).md",
+    "Obsidian/6 - Main Notes/Mean free path ( m ).md",
+    "Obsidian/6 - Main Notes/Method of characteristics.md",
+    "Obsidian/6 - Main Notes/Pressure ( Pa ).md",
+    "Obsidian/6 - Main Notes/Specific Heat Ratio ( 1 ).md",
+    "Obsidian/6 - Main Notes/Sonic Regime ( Ma = 1 ).md",
+    "Obsidian/6 - Main Notes/Reynolds number ( 1 ).md",
     "Obsidian/1 - Rough Notes/Simplifying the problem.md",
     "Obsidian/1 - Rough Notes/Steady, adiabatic, isentropic flow.md",
-    "Obsidian/0 - Canvases/Theory.canvas",
+    "Obsidian/1 - Rough Notes/Thermodynamics.md",
+    "Obsidian/1 - Rough Notes/Treating the Reactor as an Reserviour.md",
+    "Obsidian/1 - Rough Notes/two-dimensional flow field equation.md",
+    "Obsidian/1 - Rough Notes/Inlet Nozzle.md",
+    "Obsidian/1 - Rough Notes/Initial data line.md",
+    "Obsidian/1 - Rough Notes/Goal of this section.md",
+    "Obsidian/1 - Rough Notes/Equations of state.md",
+    "Obsidian/1 - Rough Notes/Equations.md",
+    "Obsidian/0 - Canvases/Analytical Work.canvas",
+    "Obsidian/0 - Canvases/Flow Regime.canvas",
+    "Obsidian/0 - Canvases/Calculation.canvas",
     "Obsidian/0 - Canvases/Main Structure.canvas",
+    "Obsidian/2 - Source Material/Figures/Figure - subsonic_nozzle.png",
+    "Obsidian/2 - Source Material/Figures/Figure - Pressure Types.png",
+    "Obsidian/2 - Source Material/Figures/Figure - outlet_nozzle.png",
+    "Obsidian/2 - Source Material/Figures/Figure - nozzle_flow.png",
+    "Obsidian/2 - Source Material/Figures/Figure - inlet_nozzle.png",
+    "Obsidian/2 - Source Material/Figures/Figure - chamber_flow.png",
+    "Obsidian/2 - Source Material/BIbliography/19930091059.pdf",
     "Obsidian/2 - Source Material/BIbliography/Table - Knudsen Number.png",
+    "Obsidian/2 - Source Material/BIbliography/Doc - Compressible Flow.pdf",
+    "Obsidian/0 - Canvases/Theory.canvas",
     "Calculations/Python/knudsen_self.py",
     "Calculations/knudsen_self.py",
-    "Obsidian/2 - Source Material/BIbliography/Doc - Compressible Flow.pdf",
-    "Obsidian/2 - Source Material/Figures/Figure - chamber_flow.png",
     "Calculations/Python/knudsen_range.pyGfSOxt.bck",
     "Calculations/Python/knudsen_range.pyAChRPu.bck",
     "Calculations/Python/knudsen_range.pyB7LrDv.bck",
     "Calculations/Python/knudsen_range.py3PdVvT.bck",
     "Calculations/Python/knudsen_range.py9FQdLW.bck",
     "Calculations/Python/knudsen_range.pyPW4fdl.bck",
-    "Calculations/Python/knudsen_range.py2AkZUq.bck",
-    "Obsidian/2 - Source Material/Figures/Figure - Pressure Types.png",
-    "Obsidian/0 - Canvases/Flow Regime.canvas",
     "Obsidian/0 - Canvases/Method of Characteristics.canvas",
-    "Obsidian/0 - Canvases/Calculation.canvas",
-    "Obsidian/6 - Main Notes/Mach number ( 1 ).md",
-    "Obsidian/2 - Source Material/Figures/Figure - nozzle_flow.png",
-    "README.md",
-    "Obsidian/2 - Source Material/Figures/Figure - inlet_nozzle.png",
     "Obsidian/2 - Source Material/Figures/Figure - Microfluidic Devices.png",
-    "Obsidian/2 - Source Material/Figures/Figure - outlet_nozzle.png",
-    "Obsidian/2 - Source Material/Figures/Figure - subsonic_nozzle.png",
     "Obsidian/2 - Source Material/Figures/Figure - supersonic_nozzle.png",
-    "Obsidian/3 - Tags/adiabatic.md",
-    "Obsidian/1 - Rough Notes/00 - Notes regarding thesis structure.md",
-    "Obsidian/1 - Rough Notes/2.2.1 - Important Assumptions.md",
-    "Obsidian/1 - Rough Notes/Determining the characteristic lines.md",
-    "Obsidian/1 - Rough Notes/two-dimensional flow field equation.md",
-    "Obsidian/1 - Rough Notes/Treating the Reactor as an Reserviour.md",
-    "Obsidian/1 - Rough Notes/Thermodynamics.md",
-    "Obsidian/6 - Main Notes/Mean free path ( m ).md",
-    "Obsidian/0 - Canvases/Analytical Work.canvas",
-    "Obsidian/1 - Rough Notes/0 - Intro.md",
-    "Obsidian/5 - Templates/Full Note.md",
-    "Obsidian/5 - Templates/Page.md",
-    "Obsidian/1 - Rough Notes/Simplest Version of the problem.md",
     "0 - Canvases/Analytical Work.canvas",
     "0 - Canvases/Theory.canvas",
     "0 - Canvases/Flow Regime.canvas",
-    "0 - Canvases/Main Structure.canvas",
     "Diagram.svg"
   ]
 }
